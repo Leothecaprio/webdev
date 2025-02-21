@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+.img1{
+    height: 300px;
+    width:auto;
+    float: left;
+    margin-left: 10px;
+    clear: right;
+}
+
+.img2{
+    height: 300px;
+    width:auto;
+    float: right;
+    margin-right: 20px;
+    clear: both;
+}

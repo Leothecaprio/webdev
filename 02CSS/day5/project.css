@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+
+
+header{
+    background-color: darkorange;
+    /* font-size:xx-large; */
+    position:fixed;
+    width: 100%;
+    
+
+}
+main{
+    padding-top: 100px;
+    /* margin-top: 50px; */
+} 

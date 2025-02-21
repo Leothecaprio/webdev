@@ -1,0 +1,49 @@
+/* external css */
+h1{
+    color:cadetblue
+}
+h2{
+    background-color: blueviolet;
+}
+/* class selector */
+.w{
+    background-color: cadetblue;
+}
+
+.u{
+    color: chocolate;
+}
+/* id selector */
+#p{
+    border-top-style: dotted;
+}
+#o{
+    background-color: chartreuse;
+}
+/* draggable & contenteditable */
+h3[draggable="true"]{
+    color: blue;
+}
+h4[contenteditable="true"]{
+    background-color: aquamarine;
+}
+/* universal selector */
+body{
+    background-color:cyan;
+}
+/* group selector */
+h1,h2,h3,h4{
+    background-color: deeppink
+}
+/* descendant selector */
+section p{
+    background-color: coral;
+}
+/* child selector */
+section > h4{
+    background-color: green;
+}
+/* #id.class  */
+.dushra#pehla{
+    background-color:indianred;
+}

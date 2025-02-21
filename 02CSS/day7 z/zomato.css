@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(240, 240, 240);
+}
+.image{
+    position: relative;
+    
+}
+.off{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgba(53, 53, 205, 0.8);
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+}
+img{
+    height: 250px;
+    width: auto;
+    border-radius: 30px;
+}
+.card{
+    display: inline-block;
+    cursor: pointer;
+    /* background-color: white; */
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    border: 20px solid rgb(240, 240, 240);
+    box-shadow: 100px;
+    
+}
+.card:hover{
+    background-color: white;
+   border-color: white;
+   
+}
+
+.box{
+    display:inline-block;
+} 
+.Rest, .food, .loc{
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.Rname{
+    font-size: large;
+    font-weight: bold;
+}
+.rratings {
+    background-color: green;
+    border-radius: 5px;
+    width: 35px;
+    height: auto;
+    color: white;
+    padding: 2px;
+    /* margin-left: 150px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.rratings, .cost, .dist{
+    position: absolute;
+    right: 5px;
+}
+.food{
+    font-size: 18px;
+    color: rgb(71, 67, 67);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.loct{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(96, 90, 90);
+}
+.dist{
+    font-weight: bold;
+}
+.head{
+    background-color: white;
+}
+.first{
+    margin-left: 200px;
+}
+.brand{
+    font-weight: 5000px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: large;
+    margin-right: 60px;
+    position: relative;
+    top: 5px;
+
+}
+
+.search{
+    height: 30px;
+    width: 200px;
+    margin-right: 60px;
+}  
+.log > button{
+   
+    width: 80px; 
+    border: none;
+    background-color: white;
+    color: gray;
+}
+.sign > button{
+    height: 40px;
+    width: 80px;
+    border: none;
+    background-color: white;
+    color: gray;
+}
+.second{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+    padding-top: 0px;
+    position: sticky;
+    top: 0px;
+    background-color: white !important;
+    z-index: 10;
+}
+.logo > img{
+    height: auto;
+    width: 40px;
+    border-radius: 0%;
+   
+}
+.dine{
+    font-size: small;
+    position: relative;
+    bottom: 10px;
+    margin-right: 100px;
+    color: rgb(67, 61, 61);
+    ;
+}
+.q{
+    margin-left: 150px;
+}
+/* .third{
+    height: 500px;
+    width: auto;
+} */
+.imgg2 img {
+    /* Your styles here */
+    height: 300px;
+    width: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+  }
+  .imgg2{
+    position: relative;
+  }
+  .s{
+    position: absolute;
+    bottom: 50px;
+    margin-left: 30px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch:ultra-expanded;
+  }

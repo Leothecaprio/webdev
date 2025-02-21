@@ -1,0 +1,89 @@
+/* Global Styles */
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #250e0e ;
+    background-color: #fcd5f8;
+}
+/* Header Styles */
+header{
+    background-color: #c96cba;
+    color: rgb(231, 231, 181);
+}
+h1{
+    font-size: 3em;
+    font-weight: bold;
+}
+h2{
+    font-size: 1.5em;
+    color: #FFD700;
+}
+/* Article Styles */
+article{
+    background-color: #fcd5f8;
+}
+section#first{
+    background-color: #c8d9eb;
+}
+section#sec{
+    background-color: #c8d9eb;
+}
+section#third{
+    background-color: #c8d9eb;
+}
+h3.css-article{
+    font-size: 2em; /* Sets the font size for h3 in CSS article */
+    color: #1f9554; /* Sets a blue color for h3 */
+}
+
+p.css-article{
+    color: #08504b; /* Sets a darker gray color for paragraphs in CSS article */
+}
+
+h3.js-article {
+    font-size: 2em; /* Sets the font size for h3 in JavaScript article */
+    color: #FF4500; /* Sets an orange red color for h3 */
+}
+
+p.js-article {
+    color: #981717; /* Sets a darker gray color for paragraphs in JavaScript article */
+}
+
+h3.responsive-article {
+    font-size: 2em; /* Sets the font size for h3 in Responsive article */
+    color: #8A2BE2; /* Sets a blue violet color for h3 */
+}
+
+p.responsive-article {
+    color: #4b2366; /* Sets a slightly lighter gray for paragraphs in Responsive article */
+}
+
+/* List Styles */
+h4{
+    color: #FF69B4;
+    font-size: 1.5em;
+}
+
+/* Table Styles */
+table {
+    width: 100%; /* Makes the table full width */
+    background-color: #f9f9f9; /* Sets a light background for the table */
+}
+
+th, td {
+    text-align: left; /* Aligns text to the left in table cells */
+}
+
+th {
+    background-color: #007BFF; /* Sets a blue background for table header */
+    color: white; /* Sets text color for table header */
+}
+
+td {
+    color: #333; /* Sets a darker color for table cells */
+}
+
+/* footer  */
+footer{
+    color: #333;
+    background-color: #ccc;
+}

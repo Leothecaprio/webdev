@@ -1,0 +1,51 @@
+/* HSL COLOURS */
+p{
+    background-color: hsl(256, 79%, 65%);
+}
+
+/* CHILD PROPERTY */
+/* div > p {
+    background-color: aquamarine;
+} */
+
+ol > ul{
+    background-color: darkviolet;
+}
+
+/* CSS COLOUR */
+h2{
+    background-color: #a833af;
+
+}
+
+h2{
+    background-color: hsla(300, 90%, 80%, 0.9);
+
+}
+
+body{
+    background-image: url(./Peacock\ Decorating\ Ideas.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+
+}
+h1{
+    font-weight: 700;
+    font-variant:small-caps;
+    color:chartreuse;
+}
+
+.l{
+    width: 50vw;
+    height: 10vh;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

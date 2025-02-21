@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.con{
+    background-color: aqua;
+    height: 10000px;
+    width: 10002px;;
+    
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.b1{
+    background-color: red;
+   
+    
+}
+.b2{
+    background-color: green;
+    position: sticky;
+    top: 20px;
+    left : 50px;
+    
+    
+}
+.b3{
+    background-color: yellow;
+    
+    
+    
+}
+.b4{
+    background-color: blue;
+  
+    
+}
+.newcon{
+    height: 800px;
+    background-color:blueviolet;
+}
+
